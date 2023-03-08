@@ -1,7 +1,6 @@
-# SLoH
-## Secret League of Humanists
+# Join the Secret League of Humanists
 
-## open-source humanities education
+## Open-Source Humanities Education
 
 1. Read these books. 
 2. Write about them on your blog or on socials. 
